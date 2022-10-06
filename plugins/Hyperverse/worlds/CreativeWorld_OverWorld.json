@@ -1,0 +1,12 @@
+{
+  "name": "CreativeWorld_OverWorld",
+  "type": "OVER_WORLD",
+  "worldFeatures": "NORMAL",
+  "settings": "",
+  "seed": -5128451159643790159,
+  "generateStructures": true,
+  "generator": "plotsquared",
+  "generatorArg": "",
+  "loaded": true,
+  "flags": {}
+}

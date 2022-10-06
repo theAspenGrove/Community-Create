@@ -1,0 +1,18 @@
+chat-prefix: "&a&l[&bAspen-Prefix&a&l]&r"
+
+default-prefix: "&6[&r{#FF0000}Broken-One&6]&r"
+
+#Use $prefix to place the prefix in your format.
+prefix-format: "&6[&r$prefix&6]&r"
+
+Prefixes:
+  staff: "&#FF8317Staff"
+  friend: "&#00C2FFFriend"
+  patron: "&#435FD6Patron"
+  twitch3: "&#7B55FFSub"
+  twitch2: "&#9F29FFSub"
+  twitch1: "&#D621FFSub"
+  booster: "&#F47FFFBooster"
+  luckyone: "&#CCC42DLuckyOne"
+  speaker: "&#4CA748Speaker"
+  spectator: "&#11806aSpectator"

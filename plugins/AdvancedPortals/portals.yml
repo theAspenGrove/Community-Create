@@ -1,0 +1,102 @@
+#  ExamplePortal:
+#    world: it will be the world name
+#    triggerblock: LAVA # will only be used if the hastriggerblock is true and can be id or text
+#    pos1: # dont mess with the data here, if you do it may stop the portal from working.
+#      X:
+#      Y:
+#      Z:
+#    pos2:
+#      X:
+#      Y:
+#      Z:
+#    destination:
+#      issetpoint: true # if this was false point name would not be used and the coordinates would be saved here, it just adds more customisation.
+#      pointname: examplepoint # if issetpoint is false this wont be here and tppos will be.
+#      tppos:
+#        X:
+#        Y:
+
+CreativeOverworldPond:
+  world: CreativeWorld
+  triggerblock: WATER
+  pos1:
+    X: -11
+    Y: 63
+    Z: -10
+  pos2:
+    X: -24
+    Y: 63
+    Z: -25
+  portalArgs:
+    command:
+      '1': ^hvtp CreativeWorld_OverWorld
+CreativeNetherDrop:
+  world: CreativeWorld
+  triggerblock: AIR
+  pos1:
+    X: 10
+    Y: 47
+    Z: 12
+  pos2:
+    X: 7
+    Y: 47
+    Z: 9
+  portalArgs:
+    command:
+      '1': ^hvtp CreativeWorld_nether
+CreativeEndFrame:
+  world: CreativeWorld
+  triggerblock: END_PORTAL
+  pos1:
+    X: -7
+    Y: 69
+    Z: 14
+  pos2:
+    X: -11
+    Y: 69
+    Z: 10
+  portalArgs:
+    command:
+      '1': ^hvtp CreativeWorld_End
+CreativeOverworldPondDeep:
+  world: CreativeWorld
+  triggerblock: WATER
+  pos1:
+    X: -11
+    Y: 61
+    Z: -10
+  pos2:
+    X: -24
+    Y: 61
+    Z: -25
+  portalArgs:
+    command:
+      '1': spawn
+CreativeNetherDropDeep:
+  world: CreativeWorld
+  triggerblock: AIR
+  pos1:
+    X: 10
+    Y: 42
+    Z: 12
+  pos2:
+    X: 7
+    Y: 42
+    Z: 9
+  portalArgs:
+    command:
+      '1': spawn
+OldWorldMine:
+  world: CreativeWorld
+  triggerblock: IRON_BARS
+  pos1:
+    X: 5
+    Y: 68
+    Z: -4
+  pos2:
+    X: 4
+    Y: 67
+    Z: -5
+  portalArgs:
+    command:
+      '1': ^hvtp BuildWorld

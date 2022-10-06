@@ -1,0 +1,14 @@
+{
+  "name": "BuildWorld",
+  "type": "OVER_WORLD",
+  "worldFeatures": "NORMAL",
+  "settings": "",
+  "seed": 4258929233002536726,
+  "generateStructures": true,
+  "generator": "plotsquared",
+  "generatorArg": "",
+  "loaded": true,
+  "flags": {
+    "gamemode": "CREATIVE"
+  }
+}

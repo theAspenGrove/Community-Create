@@ -1,0 +1,30 @@
+#  ExampleDestination:
+#    world: it will be the world name
+#    pos:
+#      X:
+#      Y:
+
+hub:
+  world: CreativeWorld
+  pos:
+    X: 10.447626816715202
+    Y: 65.0
+    Z: 0.527572691046447
+    pitch: 4.4998817
+    yaw: 90.44767
+nether:
+  world: CreativeWorld_Nether
+  pos:
+    X: 0.6265806399437389
+    Y: 63.0
+    Z: 0.6330143262465214
+    pitch: 2.5497756
+    yaw: 179.85085
+creativeoverworld:
+  world: CreativeWorld_OverWorld
+  pos:
+    X: 0.5111062216072049
+    Y: 62.0
+    Z: 0.5167428357511715
+    pitch: -1.3504442
+    yaw: -179.85062

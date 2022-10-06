@@ -1,0 +1,14 @@
+{
+  "name": "CreativeWorld_End",
+  "type": "END",
+  "worldFeatures": "FLATLAND",
+  "settings": "",
+  "seed": -2839950784411420908,
+  "generateStructures": true,
+  "generator": "PlotSquared",
+  "generatorArg": "",
+  "loaded": true,
+  "flags": {
+    "gamemode": "CREATIVE"
+  }
+}

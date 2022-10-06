@@ -1,0 +1,12 @@
+{
+  "name": "CreativeWorld_nether",
+  "type": "OVER_WORLD",
+  "worldFeatures": "NORMAL",
+  "settings": "",
+  "seed": -6925653307890211272,
+  "generateStructures": true,
+  "generator": "PlotSquared",
+  "generatorArg": "",
+  "loaded": true,
+  "flags": {}
+}

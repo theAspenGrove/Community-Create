@@ -1,0 +1,15 @@
+{
+  "name": "CreativeWorld",
+  "type": "OVER_WORLD",
+  "worldFeatures": "NORMAL",
+  "settings": "",
+  "seed": -6383179623481732859,
+  "generateStructures": true,
+  "generator": "",
+  "generatorArg": "",
+  "loaded": true,
+  "flags": {
+    "force-spawn": "true",
+    "gamemode": "CREATIVE"
+  }
+}

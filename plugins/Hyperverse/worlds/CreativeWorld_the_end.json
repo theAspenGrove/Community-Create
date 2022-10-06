@@ -1,0 +1,12 @@
+{
+  "name": "CreativeWorld_the_end",
+  "type": "END",
+  "worldFeatures": "FLATLAND",
+  "settings": "",
+  "seed": 1226061960542037451,
+  "generateStructures": true,
+  "generator": "",
+  "generatorArg": "",
+  "loaded": true,
+  "flags": {}
+}
